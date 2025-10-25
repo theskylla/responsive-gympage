@@ -10,7 +10,6 @@ body {
     display: flex; 
     padding: 40px;
     background-color: white;
-
 }
 
 h1 {
@@ -51,6 +50,7 @@ main {
 img {
     height: 100px;
     width: 100px;
+    object-fit: cover;
 
 }
 
